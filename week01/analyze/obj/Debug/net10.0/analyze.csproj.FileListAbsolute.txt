@@ -1,0 +1,15 @@
+C:\Users\Braya\OneDrive\Documentos\BCalderon\Estudios\BYU_University\2026\block6\CSE212\cse212-1\week01\analyze\bin\Debug\net10.0\analyze.exe
+C:\Users\Braya\OneDrive\Documentos\BCalderon\Estudios\BYU_University\2026\block6\CSE212\cse212-1\week01\analyze\bin\Debug\net10.0\analyze.deps.json
+C:\Users\Braya\OneDrive\Documentos\BCalderon\Estudios\BYU_University\2026\block6\CSE212\cse212-1\week01\analyze\bin\Debug\net10.0\analyze.runtimeconfig.json
+C:\Users\Braya\OneDrive\Documentos\BCalderon\Estudios\BYU_University\2026\block6\CSE212\cse212-1\week01\analyze\bin\Debug\net10.0\analyze.dll
+C:\Users\Braya\OneDrive\Documentos\BCalderon\Estudios\BYU_University\2026\block6\CSE212\cse212-1\week01\analyze\bin\Debug\net10.0\analyze.pdb
+C:\Users\Braya\OneDrive\Documentos\BCalderon\Estudios\BYU_University\2026\block6\CSE212\cse212-1\week01\analyze\obj\Debug\net10.0\analyze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Braya\OneDrive\Documentos\BCalderon\Estudios\BYU_University\2026\block6\CSE212\cse212-1\week01\analyze\obj\Debug\net10.0\analyze.AssemblyInfoInputs.cache
+C:\Users\Braya\OneDrive\Documentos\BCalderon\Estudios\BYU_University\2026\block6\CSE212\cse212-1\week01\analyze\obj\Debug\net10.0\analyze.AssemblyInfo.cs
+C:\Users\Braya\OneDrive\Documentos\BCalderon\Estudios\BYU_University\2026\block6\CSE212\cse212-1\week01\analyze\obj\Debug\net10.0\analyze.csproj.CoreCompileInputs.cache
+C:\Users\Braya\OneDrive\Documentos\BCalderon\Estudios\BYU_University\2026\block6\CSE212\cse212-1\week01\analyze\obj\Debug\net10.0\analyze.sourcelink.json
+C:\Users\Braya\OneDrive\Documentos\BCalderon\Estudios\BYU_University\2026\block6\CSE212\cse212-1\week01\analyze\obj\Debug\net10.0\analyze.dll
+C:\Users\Braya\OneDrive\Documentos\BCalderon\Estudios\BYU_University\2026\block6\CSE212\cse212-1\week01\analyze\obj\Debug\net10.0\refint\analyze.dll
+C:\Users\Braya\OneDrive\Documentos\BCalderon\Estudios\BYU_University\2026\block6\CSE212\cse212-1\week01\analyze\obj\Debug\net10.0\analyze.pdb
+C:\Users\Braya\OneDrive\Documentos\BCalderon\Estudios\BYU_University\2026\block6\CSE212\cse212-1\week01\analyze\obj\Debug\net10.0\analyze.genruntimeconfig.cache
+C:\Users\Braya\OneDrive\Documentos\BCalderon\Estudios\BYU_University\2026\block6\CSE212\cse212-1\week01\analyze\obj\Debug\net10.0\ref\analyze.dll
