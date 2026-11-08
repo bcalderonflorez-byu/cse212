@@ -1,0 +1,15 @@
+C:\Users\Braya\OneDrive\Documentos\BCalderon\Estudios\BYU_University\2026\block6\CSE212\cse212-1\week01\teach\bin\Debug\net10.0\teach.exe
+C:\Users\Braya\OneDrive\Documentos\BCalderon\Estudios\BYU_University\2026\block6\CSE212\cse212-1\week01\teach\bin\Debug\net10.0\teach.deps.json
+C:\Users\Braya\OneDrive\Documentos\BCalderon\Estudios\BYU_University\2026\block6\CSE212\cse212-1\week01\teach\bin\Debug\net10.0\teach.runtimeconfig.json
+C:\Users\Braya\OneDrive\Documentos\BCalderon\Estudios\BYU_University\2026\block6\CSE212\cse212-1\week01\teach\bin\Debug\net10.0\teach.dll
+C:\Users\Braya\OneDrive\Documentos\BCalderon\Estudios\BYU_University\2026\block6\CSE212\cse212-1\week01\teach\bin\Debug\net10.0\teach.pdb
+C:\Users\Braya\OneDrive\Documentos\BCalderon\Estudios\BYU_University\2026\block6\CSE212\cse212-1\week01\teach\obj\Debug\net10.0\teach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Braya\OneDrive\Documentos\BCalderon\Estudios\BYU_University\2026\block6\CSE212\cse212-1\week01\teach\obj\Debug\net10.0\teach.AssemblyInfoInputs.cache
+C:\Users\Braya\OneDrive\Documentos\BCalderon\Estudios\BYU_University\2026\block6\CSE212\cse212-1\week01\teach\obj\Debug\net10.0\teach.AssemblyInfo.cs
+C:\Users\Braya\OneDrive\Documentos\BCalderon\Estudios\BYU_University\2026\block6\CSE212\cse212-1\week01\teach\obj\Debug\net10.0\teach.csproj.CoreCompileInputs.cache
+C:\Users\Braya\OneDrive\Documentos\BCalderon\Estudios\BYU_University\2026\block6\CSE212\cse212-1\week01\teach\obj\Debug\net10.0\teach.sourcelink.json
+C:\Users\Braya\OneDrive\Documentos\BCalderon\Estudios\BYU_University\2026\block6\CSE212\cse212-1\week01\teach\obj\Debug\net10.0\teach.dll
+C:\Users\Braya\OneDrive\Documentos\BCalderon\Estudios\BYU_University\2026\block6\CSE212\cse212-1\week01\teach\obj\Debug\net10.0\refint\teach.dll
+C:\Users\Braya\OneDrive\Documentos\BCalderon\Estudios\BYU_University\2026\block6\CSE212\cse212-1\week01\teach\obj\Debug\net10.0\teach.pdb
+C:\Users\Braya\OneDrive\Documentos\BCalderon\Estudios\BYU_University\2026\block6\CSE212\cse212-1\week01\teach\obj\Debug\net10.0\teach.genruntimeconfig.cache
+C:\Users\Braya\OneDrive\Documentos\BCalderon\Estudios\BYU_University\2026\block6\CSE212\cse212-1\week01\teach\obj\Debug\net10.0\ref\teach.dll
